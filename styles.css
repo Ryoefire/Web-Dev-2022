@@ -1,0 +1,54 @@
+body {
+  font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+  font-size: 14px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  line-height: 20px;
+  background: #F7E7BD;
+  text-align: center;
+}
+
+hr {
+  width: 5%;
+  color: #D9C6A5;
+  border: 5px;
+  border-style: none none dotted;
+}
+
+h1 {
+  font-family: "Arial Black", "Arial Bold", Gadget, sans-serif;
+  font-size: 40px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 700;
+  line-height: 26.4px;
+  color: #C26565;
+}
+
+h3 {
+  font-family: "Arial Black", "Arial Bold", Gadget, sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 700;
+  line-height: 26.4px;
+  color: #A35D6A;
+}
+
+ul li {
+  text-align: center;
+}
+
+td {
+  text-align: center;
+}
+
+tr:hover {
+  background-color: coral;
+}
+
+th, td {
+  align-items: center;
+  border-bottom: 1px solid #87431D;
+}
